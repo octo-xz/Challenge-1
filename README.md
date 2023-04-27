@@ -13,7 +13,9 @@
 
 ### Visuals
 
-
+![Horiseon-webiste-page](/readme-images/img-1.png)
+![Horiseon-webiste-page](/readme-images/img-2.png)
+![Horiseon-webiste-page](/readme-images/img-3.png)
 
 ### Usage
 
