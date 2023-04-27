@@ -11,6 +11,10 @@
 
  Installation can be done by downloading the files directly to your computer from a .zip file or by cloning the files from the repository directly using Github's link or SSH key link. If you are unfamiliar with using Github's repositories there are many resources to look up and from there it is pretty self-explanatory.
 
+### Visuals
+
+insert screenshot here
+
 ### Usage
 
  The usage of this page is create a working HTML and CSS webpage for the client Horiseon Social Solution Services. The three clickable links should be working and the aside should be to the side. All three sections should be in blue boxes with an image next to each text element.
