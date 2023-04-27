@@ -13,7 +13,9 @@
 
 ### Visuals
 
-insert screenshot here
+![image of Horiseon Site](/readme-images/horiseon-img-1.png)
+![image of Horiseon Site](/readme-images/horiseon-img-2.png)
+![image of Horiseon Site](/readme-images/horiseon-img-3.png)
 
 ### Usage
 
