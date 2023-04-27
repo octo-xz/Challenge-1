@@ -24,7 +24,6 @@
 ### Support
 
  If you are having issues with this webpage please email me at power.jd@proton.me with what is causing you issues.
-if u are having issues only the lord can help u now srryyy
 
 ### Roadmap
 
