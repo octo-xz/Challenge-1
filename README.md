@@ -43,4 +43,4 @@
 
 ### Project status
 
- Development is not currently ongoing for this project.
+ This project has been deployed at  https://octo-xz.github.io/Challenge-1-fix-website/ on Github pages.
